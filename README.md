@@ -48,6 +48,6 @@ AWS SageMaker, Hugging Face Spaces.
 #### Contact
 
 - LinkedIn: [nehemiahwj](https://www.linkedin.com/in/nehemiahwj/)
-- Email: nehemiahwj@gmail.com
+- Email: nehewj@gmail.com
 
 Open to conversations about data work, research assistance, and remote internships.
