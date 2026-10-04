@@ -37,7 +37,7 @@ AWS SageMaker, Hugging Face Spaces.
 | [nemi-dashboard](https://github.com/ne-he/nemi-dashboard) | E-commerce sales analysis over 20,848 orders, aimed at three owner decisions: which products to grow, which regions are failing, and where margin leaks. | [open](https://dashboard-nehemiah.vercel.app) |
 | [Feature_shopz](https://github.com/ne-he/Feature_shopz) | Feature store with a PostgreSQL offline store, a Redis online store, FastAPI serving, and freshness and drift monitoring. | [open](https://ne-he-feature-store-mvp.hf.space) |
 | [Addictv2](https://github.com/ne-he/Addictv2) | CatBoost regressor behind one shared preprocessor so training and serving cannot drift apart. SHAP, tests, CI, Docker. | [open](https://addictv2.vercel.app) |
-| [iceberg](https://github.com/ne-he/iceberg) | Scroll driven 3D web CV. React Three Fiber, drei, Blender assets exported as GLB. | [open](https://ice-nemi.vercel.app) |
+| [iceberg v2](https://github.com/ne-he/icee) | Scroll driven 3D web CV: a snowfield, a crevasse, then a live-rendered ice cave. React Three Fiber, drei, a world generated from noise. | [open](https://ice-nemi.vercel.app) |
 | [web_portofolio_RAG](https://github.com/ne-he/web_portofolio_RAG) | Ask Nemi. A resume you talk to instead of read: hybrid retrieval over pgvector, confidence gating, streamed answers with citations. | [open](https://web-portofolio-rag.vercel.app) |
 
 ---
